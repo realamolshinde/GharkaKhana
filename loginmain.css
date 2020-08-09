@@ -1,0 +1,72 @@
+*
+body{
+background:url(logo20.jpg);
+background-size:cover;
+
+
+}
+.loginbox{
+	margin-redius:15px;
+	margin-top:30px;
+	background-color:rgba(0,0,0,0.6);
+	Border-style:solid;
+	border-color:white;
+	border-redius:20px;
+	margin-left:40%;
+	margin-right:40%;
+	padding-left:1%;
+	border-radius:50px;
+	}
+.loginbox h1 p{
+text-color:white;
+
+}
+.login button{
+font-size:20px;
+width:92%;
+height:5%;
+border-redius:15%;
+background-color:#ffc107;
+
+}
+.login button a
+	{
+	text-decoration:none;
+	}
+.login button:hover
+	{
+	border-color:red;
+	}
+
+.loginbox input[type="text"],input[type="password"]{
+	border:none;
+	background-color:transparent;
+	border-bottom:1px solid white;
+
+
+}
+.loginbox input[type="submit"]:hover{
+curser:pointer;
+background:#ffc107;
+color:#000;
+border-color:red;
+}
+
+.loginbox a:hover{
+curser:pointer;
+background:#ffc107;
+color:#000;
+}
+
+.loginbox input:hover{
+curser:pointer;
+border-bottom-color:red;
+}
+.user img
+	{
+	width:50%;
+	height:20%;
+	margin-left:60px;
+	border-radius:90%;
+	
+	}

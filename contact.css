@@ -1,0 +1,42 @@
+*
+body
+	{
+	background-color:#000;
+	background:url(contact2.jpg);
+	background-size:cover;
+	}
+.container
+	{
+		text-align:center;
+	}
+	
+.img
+	{
+	border-radius:50%;
+	padding:0;
+	margin:0;
+	height:7%; 
+	width:7%;	
+	}
+	
+.x
+	{
+	float:left;
+	width:33.33%;
+	color:white;
+
+	}
+	
+.y{
+		float:left;
+		width:33.33%;
+		color:white;
+
+	}
+	
+.z{
+		float:left;
+		width:33.33%;
+		color:white;
+
+	}
